@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Padam Singh ",
+      "phone": "9800562062"
+    },
+    {
+      "id": 2,
+      "name": "Aarati Singh",
+      "phone": "9864968870"
+    },
+    {
+      "id": 3,
+      "name": "Karna Singh",
+      "phone": "9844856292"
+    },
+    {
+      "id": 4,
+      "name": "Janaki Singh",
+      "phone": "9800562062"
+    },
+    {
+      "id": 5,
+      "name": "Anil Singh",
+      "phone": "9800562062"
+    },
+    {
+      "id": 6,
+      "name": "Man Malla",
+      "phone": "9800562062"
+    },
+    {
+      "id": 7,
+      "name": "Puspanjali Malla",
+      "phone": "9800562062"
+    },
+    {
+      "id": 8,
+      "name": "Roshika Malla",
+      "phone": "9800562062"
+    },
+    {
+      "id": 9,
+      "name": "Manyata Malla",
+      "phone": "12345678"
+    },
+    {
+      "id": 10,
+      "name": "Parvati Singh",
+      "phone": "1234567898"
+    },
+    {
+      "id": 11,
+      "name": "Seema Singh",
+      "phone": "9835426783"
+    }
+  ]
+}

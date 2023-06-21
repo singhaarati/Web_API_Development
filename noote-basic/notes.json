@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "desc": "state management in react",
+      "imporstant": true
+    },
+    {
+      "id": 2,
+      "desc": "daisyUI provides a useful component library",
+      "imporstant": false
+    },
+    {
+      "desc": "mmmmm",
+      "important": true,
+      "id": 3
+    },
+    {
+      "desc": "connect databse",
+      "important": false,
+      "id": 4
+    }
+  ]
+}
